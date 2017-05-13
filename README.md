@@ -29,9 +29,3 @@ $ docker logs some-minergate-cli
 ```
 
 # Donations
-
-Donations for work on dockerizing are accepted at:
-
-- XMR: `49TfoHGd6apXxNQTSHrMBq891vH6JiHmZHbz5Vx36nLRbz6WgcJunTtgcxnoG6snKFeGhAJB5LjyAEnvhBgCs5MtEgML3LU`
-- BCN: `25HFYXMSmBVWcTYJNyJGSMVxvSut88KKdhXfFSyTTkRQKgANqyoK9kHhhBmF2CUV3y1D1iyGwnVEW3Cm3QQjMsTTHBcWhzG`
-- BTC: `1NUMFM6UTv9iRVVzjsfhzbAGjwNxQRA8Qz`
