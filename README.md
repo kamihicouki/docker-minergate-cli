@@ -13,7 +13,7 @@ User-friendly miner supports Bytecoin, Monero, Quazarcoin, Litecoin, DarkNote, F
 Run in background:
 
 ```console
-$ docker run -d --name some-minergate-cli minecoins/minergate-cli -user kamihicouki@gmail.com -xmr
+$ docker run -d --name some-minergate-cli minecoins/minergate-cli -user kamihicouki@gmail.com -fcn+xmr
 ```
 
 Get minergate-cli options with:
